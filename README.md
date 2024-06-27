@@ -1,5 +1,6 @@
 ## How to remote jlink
 - Step 1: Open Jlink Remote Server.
+  
   ![image](https://github.com/VANTHO15/remote_jlink/assets/56969447/56a56c50-d491-4865-9b5e-844f361713b2)
 
 - Step 2: Config J-Link connection( Note fill Serial Number field).
